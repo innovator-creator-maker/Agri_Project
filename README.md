@@ -2,6 +2,8 @@
 
 the dataset is downloaded form kaggle.com source : https://www.kaggle.com/samextensibleenergy/agricultural-commodity-dataset
 
+I have used Ahmednagar data only for the solution and made the solution only of the first city.
+
 My name is Samarth Pandey and i have written it for event hosted by AI Student Community 
 
 Libraries used are pandas and matplotlib 
